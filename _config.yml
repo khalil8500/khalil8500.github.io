@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
 title: Khalil Anderson
 logo: KhalilHeadshotSmall
 description: 4th year Northwestern Unviersity PhD Candidate
+show_downloads: false
+theme: jekyll-theme-minimal
