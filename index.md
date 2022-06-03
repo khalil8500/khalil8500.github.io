@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/khalil8500/khalil8500.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khalil8500/khalil8500.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Born in Bronxville, New York and raised in Ellicott City, Maryland, I am a Computer Science PhD student with interests in Machine Learning. More specifically with interests in Reinforcement Learning, NLP, and how Machine Learning can help augment, not necesarily replace, humans in tasks and jobs such as driving, learning, manufacturing, and many other areas. My current research focuses in HCI and Multi-Modal Analytics. In these areas, I hope to analyze and change the different ways Multi-Modal Analytics is currently approached to better integrate the wants and needs of those who are participating in collection. In doing this I hope develop new algorithms and interactions that combine different modalities that aid in serving those needs we see from the participants.
