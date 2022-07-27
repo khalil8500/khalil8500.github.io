@@ -4,3 +4,12 @@ Born in Bronxville, New York and raised in Ellicott City, Maryland, I am a Compu
 
 [Resume](khanders_resume.pdf)<br>
 [Linkedin](https://www.linkedin.com/in/khanders/)
+
+Publications:
+
+[1] M. Worsley, K. Anderson, N. Melo, and J. Jang, “Designing Analytics for Collaboration Literacy and Student Empowerment,” JLA, vol. 8, no. 1, pp. 30–48, Apr. 2021, doi: 10.18608/jla.2021.7242.
+
+[2] K. J. Anderson, T. Dubiel, K. Tanaka, M. Worsley, C. Poultney, and S. Brenneman, “Chemistry Pods: A Mutlimodal Real Time and Retrospective Tool for the Classroom,” in 2019 International Conference on Multimodal Interaction, New York, NY, USA, Oct. 2019, pp. 506–507. doi: 10.1145/3340555.3358662.
+
+[3] K. Anderson and G. Vanhoy, “VALIDATION OF A CRV MODEL USING TVWS MEASUREMENTS,” p. 5, 2017.
+
