@@ -7,9 +7,11 @@ Born in Bronxville, New York and raised in Ellicott City, Maryland, I am a Compu
 
 Publications:
 
-[1] M. Worsley, K. Anderson, N. Melo, and J. Jang, “Designing Analytics for Collaboration Literacy and Student Empowerment,” JLA, vol. 8, no. 1, pp. 30–48, Apr. 2021, doi: 10.18608/jla.2021.7242.
+[1] Khalil Anderson. 2022. Real-time Feedback for Developing Conversation Literacy. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22). Association for Computing Machinery, New York, NY, USA, 701–704. https://doi.org/10.1145/3536221.3557031
 
-[2] K. J. Anderson, T. Dubiel, K. Tanaka, M. Worsley, C. Poultney, and S. Brenneman, “Chemistry Pods: A Mutlimodal Real Time and Retrospective Tool for the Classroom,” in 2019 International Conference on Multimodal Interaction, New York, NY, USA, Oct. 2019, pp. 506–507. doi: 10.1145/3340555.3358662.
+[2] M. Worsley, K. Anderson, N. Melo, and J. Jang, “Designing Analytics for Collaboration Literacy and Student Empowerment,” JLA, vol. 8, no. 1, pp. 30–48, Apr. 2021, doi: 10.18608/jla.2021.7242.
 
-[3] K. Anderson and G. Vanhoy, “VALIDATION OF A CRV MODEL USING TVWS MEASUREMENTS,” p. 5, 2017.
+[3] K. J. Anderson, T. Dubiel, K. Tanaka, M. Worsley, C. Poultney, and S. Brenneman, “Chemistry Pods: A Mutlimodal Real Time and Retrospective Tool for the Classroom,” in 2019 International Conference on Multimodal Interaction, New York, NY, USA, Oct. 2019, pp. 506–507. doi: 10.1145/3340555.3358662.
+
+[4] K. Anderson and G. Vanhoy, “VALIDATION OF A CRV MODEL USING TVWS MEASUREMENTS,” p. 5, 2017.
 
