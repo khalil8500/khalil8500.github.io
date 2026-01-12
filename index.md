@@ -1,6 +1,6 @@
 ## About me
 
-Born in Bronxville, New York and raised in Ellicott City, Maryland, I am a Computer Science PhD student with interests in Machine Learning. More specifically with interests in Reinforcement Learning, NLP, and how Machine Learning can help augment, not necessarily replace, humans in tasks and jobs such as driving, learning, manufacturing, and many other areas. My current research focuses on HCI and Multi-Modal Analytics. In these areas, I hope to analyze and change the different ways Multimodal Analytics is currently approached to better integrate the wants and needs of those who are participating in collection. In doing this I hope to develop new algorithms and interactions that combine different modalities that aid in serving those needs we see from the participants.<br>
+Born in Bronxville, New York, and raised in Ellicott City, Maryland, I am a Computer Science PhD Grad with interests in Machine Learning. More specifically, with interests in Reinforcement Learning, NLP, and how Machine Learning can help augment, not necessarily replace, humans in tasks and jobs such as driving, learning, manufacturing, and many other areas. My current research focuses on HCI and Multi-Modal Analytics. In these areas, I hope to analyze and change how Multimodal Analytics is currently approached to better integrate the wants and needs of those participating in the collection. In doing so, I hope to develop new algorithms and interactions that combine different modalities to better serve the needs we observe among participants.<br>
 
 [Resume](AndersonKhalil-Resume.pdf)<br>
 [CV](KAndersonCV.pdf)<br>
@@ -12,7 +12,7 @@ Publications:
 
 [2] M. Worsley, K. Anderson, N. Melo, and J. Jang, “Designing Analytics for Collaboration Literacy and Student Empowerment,” JLA, vol. 8, no. 1, pp. 30–48, Apr. 2021, doi: 10.18608/jla.2021.7242.
 
-[3] K. J. Anderson, T. Dubiel, K. Tanaka, M. Worsley, C. Poultney, and S. Brenneman, “Chemistry Pods: A Mutlimodal Real Time and Retrospective Tool for the Classroom,” in 2019 International Conference on Multimodal Interaction, New York, NY, USA, Oct. 2019, pp. 506–507. doi: 10.1145/3340555.3358662.
+[3] K. J. Anderson, T. Dubiel, K. Tanaka, M. Worsley, C. Poultney, and S. Brenneman, “Chemistry Pods: A Multimodal Real Time and Retrospective Tool for the Classroom,” in 2019 International Conference on Multimodal Interaction, New York, NY, USA, Oct. 2019, pp. 506–507. doi: 10.1145/3340555.3358662.
 
 [4] K. Anderson and G. Vanhoy, “VALIDATION OF A CRV MODEL USING TVWS MEASUREMENTS,” p. 5, 2017.
 
