@@ -8,7 +8,7 @@ Born in Bronxville, New York, and raised in Ellicott City, Maryland, I am a Comp
 
 Publications:
 
-[1] K. Anderson, Designing a Multimodal Collaboration Analytics Tool to Support Students’ Collaboration Literacy Development, PhD thesis, Northwestern University, 2026.
+[1] K. Anderson, Designing a Multimodal Collaboration Analytics Tool to Support Students’ Collaboration Literacy Development, PhD thesis, Northwestern University, 2026. https://www.mccormick.northwestern.edu/computer-science/documents/khalil-anderson-tech-report-nu-cs-2026-02.pdf
 
 [2] D. Xie, Anderson, Khalil, T. Eze, C. Lin, B. Shin, and M. Worsley, Clara: An AI-augmented analytics dashboard for collaboration literacy, in International Conference on AI in Education, 2026.
 
