@@ -17,7 +17,7 @@ Education Open. https://doi.org/10.1016/j.caeo.2026.100393
 
 [3] Anderson, Khalil (2022). "Real-time Feedback for Developing Conversation Literacy". In: International Conference on Multimodal Interaction. https://doi.org/10.1145/3536221.3557031
 
-[4] Worsley, Marcelo, Anderson, Khalil, Natalie Melo, and JooYoung Jang (2021). “Designing Analytics for Collaboration Literacy and Student Empowerment”. Journal of Learning Analytics. https://doi.org/10.1145/3536221.3557031
+[4] Worsley, Marcelo, Anderson, Khalil, Natalie Melo, and JooYoung Jang (2021). “Designing Analytics for Collaboration Literacy and Student Empowerment”. Journal of Learning Analytics. http://dx.doi.org/10.18608/jla.2021.7242
 
 [5] Anderson, Khalil, Theodore Dubiel, Kenji Tanaka, Marcelo Worsley, Cody Poultney, and Steve Brenneman (2019). “Chemistry Pods: A Multimodal Real Time and Retrospective Tool for the Classroom”. In: International Conference on Multimodal Interaction. http://dx.doi.org/10.1145/3340555.3358662
 
