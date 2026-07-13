@@ -13,14 +13,16 @@ Publications:
 [2] Eze, Tochukwu, Anderson, Khalil, and Marcelo Worsley (2026). “Evaluating AI-based Visual Privacy through Cartoonification: Impact on Expressive Participation and Consent for Data Retention”. In: Computers and
 Education Open. https://doi.org/10.1016/j.caeo.2026.100393
 
-[2] Xie, Dawie, Anderson, Khalil, T. Eze, C. Lin, B. Shin, and M. Worsley (2026). "Clara: An AI-Augmented Analytics Dashboard for Collaboration Literacy". In: International Conference on AI in Education. https://doi.org/10.1007/978-3-032-29755-6_23
+[3] Xie, Dawie, Anderson, Khalil, T. Eze, C. Lin, B. Shin, and M. Worsley (2026). "CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy". In: International Conference on AI in Education. https://doi.org/10.1007/978-3-032-29755-6_23
 
-[3] Anderson, Khalil (2022). "Real-time Feedback for Developing Conversation Literacy". In: International Conference on Multimodal Interaction. https://doi.org/10.1145/3536221.3557031
+[4] Eze, Tochukwu, Lucas Zurbuchen, Anderson, Khalil, and Marcelo Worsley (2026). “A collaboration literacy analytics framework (CLAF): Investigating students’ perspectives on collaboration quality indicators and feedback utilization”. In: International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-026-09475-w
 
-[4] Worsley, Marcelo, Anderson, Khalil, Natalie Melo, and JooYoung Jang (2021). “Designing Analytics for Collaboration Literacy and Student Empowerment”. Journal of Learning Analytics. http://dx.doi.org/10.18608/jla.2021.7242
+[5] Anderson, Khalil (2022). "Real-time Feedback for Developing Conversation Literacy". In: International Conference on Multimodal Interaction. https://doi.org/10.1145/3536221.3557031
 
-[5] Anderson, Khalil, Theodore Dubiel, Kenji Tanaka, Marcelo Worsley, Cody Poultney, and Steve Brenneman (2019). “Chemistry Pods: A Multimodal Real Time and Retrospective Tool for the Classroom”. In: International Conference on Multimodal Interaction. http://dx.doi.org/10.1145/3340555.3358662
+[6] Worsley, Marcelo, Anderson, Khalil, Natalie Melo, and JooYoung Jang (2021). “Designing Analytics for Collaboration Literacy and Student Empowerment”. Journal of Learning Analytics. http://dx.doi.org/10.18608/jla.2021.7242
 
-[6] K. Anderson and G. Vanhoy, “VALIDATION OF A CRV MODEL USING TVWS MEASUREMENTS,” p. 5, 2017.
+[7] Anderson, Khalil, Theodore Dubiel, Kenji Tanaka, Marcelo Worsley, Cody Poultney, and Steve Brenneman (2019). “Chemistry Pods: A Multimodal Real Time and Retrospective Tool for the Classroom”. In: International Conference on Multimodal Interaction. http://dx.doi.org/10.1145/3340555.3358662
+
+[8] K. Anderson and G. Vanhoy, “VALIDATION OF A CRV MODEL USING TVWS MEASUREMENTS,” p. 5, 2017.
 
 
